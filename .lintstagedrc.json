@@ -1,0 +1,5 @@
+{
+  "src/**/*.js": [
+    "eslint --ext js --fix"
+  ]
+}
